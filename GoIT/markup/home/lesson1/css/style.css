@@ -1,3 +1,14 @@
-h1{
-	padding-left: 120px
+.text {width:  500px;
+    margin: 0 auto;
+    padding-bottom: 10px;
 }
+
+hr{
+    width:  600px;
+    margin: 0 auto;
+}
+#image {
+	width: 500px;
+    margin: 0 auto;
+    padding-left: 150px;
+  }
